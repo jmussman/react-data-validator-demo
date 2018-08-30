@@ -1,0 +1,23 @@
+/* ValidatorDemo.css
+** Copyright © 2018 Joel Mussman. All rights reserved.
+*/
+
+label {
+  display: inline-block;
+  margin: 5px;
+  width: 150px;
+  font-weight: bold;
+  text-align: right;
+}
+
+input {
+  display: inline-block;
+  margin: 5px;
+}
+
+span.validation {
+  display: inline-block;
+  margin: 5px;
+  font-weight: bold;
+  color: darkred;
+}

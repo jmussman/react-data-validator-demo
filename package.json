@@ -1,0 +1,36 @@
+{
+    "name": "react-data-validator-demo",
+    "version": "1.0.0",
+    "description": "An example of using the react-data-validator module and component.",
+    "license": "MIT",
+    "homepage": "https://github.com/jmussman/react-data-validator-deom",
+    "bugs": "https://github.com/jmussman/react-data-validator-demo/issues",
+    "keywords": [
+        "React",
+        "Validator",
+        "Validation",
+        "Form",
+        "Field"
+    ],
+    "contributors": [
+        {
+            "name": "Joel Mussman"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jmussman/react-data-validator-demo.git"
+    },
+    "dependencies": {
+        "react": "^16.4.2",
+        "react-data-validator": "^1.0.0",
+        "react-dom": "^16.4.2",
+        "react-scripts": "1.1.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
